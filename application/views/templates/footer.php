@@ -5,7 +5,7 @@
     </div>
 
     
-    Coded with &nbsp;<i class="fa fa-heart"></i> &nbsp;by<strong> Group 69</strong> &nbsp;@&nbsp;<strong>&nbsp;NSBM</strong>
+    Coded with &nbsp;<i class="fa fa-heart"></i> &nbsp;by<strong> IS</strong> &nbsp;@&nbsp;<strong>&nbsp;NSBM</strong>
     
     
   </footer>
