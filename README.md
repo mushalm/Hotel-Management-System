@@ -1,4 +1,5 @@
-# Hotel-Management-System
+# The Kingsbury Hotel
+###### The home away from home
 
 youCanManageYourHotel
 
