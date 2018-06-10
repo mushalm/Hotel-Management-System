@@ -3,7 +3,7 @@
 ###### The home away from home
 
 ###### Second Year Integrated Project - Hotel Management System 
-----------
+
 
 
 ### Landing Page 
