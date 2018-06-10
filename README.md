@@ -32,6 +32,45 @@
 <p align="center">
   <img src="project previews/5.png" width="auto" height="auto"/>
 </p>
+### User Management Page
+----------
+<p align="center">
+  <img src="project previews/6.png" width="auto" height="auto"/>
+</p>
+### Store Management Page
+----------
+<p align="center">
+  <img src="project previews/7.png" width="auto" height="auto"/>
+</p>
+
+### Product Management Page
+----------
+<p align="center">
+  <img src="project previews/8.png" width="auto" height="auto"/>
+</p>
+
+### Order Management Page
+----------
+<p align="center">
+  <img src="project previews/9.png" width="auto" height="auto"/>
+</p>
+
+### Report Management Page
+----------
+<p align="center">
+  <img src="project previews/10.png" width="auto" height="auto"/>
+</p>
+
+### Company Information Management Page
+----------
+<p align="center">
+  <img src="project previews/11.png" width="auto" height="auto"/>
+</p>
+
+
+
+
+
 
 
 
