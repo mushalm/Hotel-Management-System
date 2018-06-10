@@ -1,6 +1,7 @@
 <p align="center">
-# The Kingsbury Hotel
-###### The home away from home
+<h1> The Kingsbury Hotel </h1>
+<br>  
+<h6> The home away from home </h6>
 </p>
 youCanManageYourHotel
 
