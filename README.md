@@ -1,9 +1,8 @@
-<p align="center">
-<h1> The Kingsbury Hotel </h1>
-<br>  
-<h6> The home away from home </h6>
-</p>
-youCanManageYourHotel
+
+# The Kingsbury Hotel
+###### The home away from home
+
+### Hotel Management System 
 
 <!-- ![alt text](https://github.com/theIshantha/Hotel-Management-System-/blob/master/image%20copy.png "Logo Title Text 1")
 
