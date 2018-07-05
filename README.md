@@ -1,6 +1,6 @@
 
 # The Kingsbury Hotel
-----------
+
 ###### The home away from home
 
 ###### Second Year Integrated Project - Hotel Management System 
