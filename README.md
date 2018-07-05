@@ -1,25 +1,26 @@
 
 # The Kingsbury Hotel
+----------
 ###### The home away from home
 
 ###### Second Year Integrated Project - Hotel Management System 
 
 
 
-### Landing Page 
-----------
+## Landing Page 
+
 <p align="center">
   <img src="project previews/1.png" width="auto" height="auto"/>
 </p>
 
-### Login Potal
-----------
+## Login Potal
+
 <p align="center">
   <img src="project previews/2.png" width="auto" height="auto"/>
 </p>
 
-### Dashbord Page
-----------
+## Dashbord Page
+
 
 ###### Desktop Preview
 
@@ -39,43 +40,43 @@
   <img src="project previews/5.png" width="auto" height="auto"/>
 </p>
 
-### User Management Page
-----------
+## User Management Page
+
 
 <p align="center">
   <img src="project previews/6.png" width="auto" height="auto"/>
 </p>
 
-### Store Management Page
-----------
+## Store Management Page
+
 
 <p align="center">
   <img src="project previews/7.png" width="auto" height="auto"/>
 </p>
 
-### Product Management Page
-----------
+## Product Management Page
+
 
 <p align="center">
   <img src="project previews/8.png" width="auto" height="auto"/>
 </p>
 
-### Order Management Page
-----------
+## Order Management Page
+
 
 <p align="center">
   <img src="project previews/9.png" width="auto" height="auto"/>
 </p>
 
-### Report Management Page
-----------
+## Report Management Page
+
 
 <p align="center">
   <img src="project previews/10.png" width="auto" height="auto"/>
 </p>
 
-### Company Information Management Page
-----------
+## Company Information Management Page
+
 
 <p align="center">
   <img src="project previews/11.png" width="auto" height="auto"/>
