@@ -12,7 +12,7 @@
     <style>
       @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-
+/* embedded css */
 body {
   /* font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-family: 'Roboto',
@@ -40,6 +40,7 @@ body {
     <a class="menu-toggle rounded" href="#">
       <i class="fa fa-bars"></i>
     </a>
+<!-- This is the sidebar navigation tag -->
     <nav id="sidebar-wrapper">
       <ul class="sidebar-nav">
         <li class="sidebar-brand">
